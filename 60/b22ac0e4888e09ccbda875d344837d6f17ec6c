@@ -1,0 +1,19 @@
+js/widgets/modewidget.js
+  s_c5cb2de3d7c8cb::t_5f23093dd43c7f 814
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "60b22ac0e4888e09ccbda875d344837d6f17ec6c",
+  "prompts": {},
+  "sessions": {
+    "s_c5cb2de3d7c8cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df55cc93-9cd6-46c5-a323-08c22451fef7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
