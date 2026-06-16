@@ -1,0 +1,21 @@
+js/utils/__tests__/utils.test.js
+  s_c5cb2de3d7c8cb::t_481273ec7b1671 422-437
+js/utils/utils-logic.js
+  s_c5cb2de3d7c8cb::t_026d4f2b5b2a65 316,324-326
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "f14bfaa050c995207fc8451d2db3b9c93bf38997",
+  "prompts": {},
+  "sessions": {
+    "s_c5cb2de3d7c8cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df55cc93-9cd6-46c5-a323-08c22451fef7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
