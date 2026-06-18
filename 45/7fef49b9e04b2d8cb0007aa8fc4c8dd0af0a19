@@ -1,0 +1,38 @@
+js/turtle-singer.js
+  s_25f66da1ee4731::t_7def897cfccfbb 162
+js/blocks/__tests__/BoxesBlocks.test.js
+  s_25f66da1ee4731::t_f9693c2b3fcc9b 140-145
+  s_25f66da1ee4731::t_cd601a0a95c04d 199-233
+js/turtleactions/__tests__/PitchActions.test.js
+  s_25f66da1ee4731::t_11b87c2b313118 88-90
+  s_25f66da1ee4731::t_96b0cf49487c27 206-241
+js/blocks/FlowBlocks.js
+  s_25f66da1ee4731::t_6fb7fecc971487 199
+  s_25f66da1ee4731::t_b368d1f268ab58 234
+js/turtleactions/PitchActions.js
+  s_25f66da1ee4731::t_e27c47db56d34e 154-176
+js/blocks/BoxesBlocks.js
+  s_25f66da1ee4731::t_1062f026512430 88-100
+js/turtle.js
+  s_25f66da1ee4731::t_8b2dfead4dc8bb 266
+js/blocks/__tests__/FlowBlocks.test.js
+  s_25f66da1ee4731::t_c9a79cde403b19 284-305
+  s_25f66da1ee4731::t_e72098ed0d56cb 119
+  s_25f66da1ee4731::t_3ce2fc7b6d2e63 283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "457fef49b9e04b2d8cb0007aa8fc4c8dd0af0a19",
+  "prompts": {},
+  "sessions": {
+    "s_25f66da1ee4731": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c6db0c8d-8fec-43a3-85e6-819643553770",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
