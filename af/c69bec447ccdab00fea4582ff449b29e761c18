@@ -1,0 +1,32 @@
+js/turtle-singer.js
+  s_c5cb2de3d7c8cb::t_147d0c3e20d2c8 616,619,622
+  s_c5cb2de3d7c8cb::t_cc5f3cea439b63 680,683,686
+  s_c5cb2de3d7c8cb::t_f5619a17266947 496,499,502
+js/blocks/BoxesBlocks.js
+  s_c5cb2de3d7c8cb::t_4f137056481417 472
+js/blocks/FlowBlocks.js
+  s_c5cb2de3d7c8cb::t_375509563b1cdb 537
+  s_c5cb2de3d7c8cb::t_52a5ada8555c24 339
+  s_c5cb2de3d7c8cb::t_5f79cd8825cd62 312
+  s_c5cb2de3d7c8cb::t_d3029bd0de7856 297
+  s_c5cb2de3d7c8cb::t_aa0b72ed329a45 319
+  s_c5cb2de3d7c8cb::t_99676fabe421cc 276
+  s_c5cb2de3d7c8cb::t_b3f90ea234c047 662
+  s_c5cb2de3d7c8cb::t_d426336581494c 247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "afc69bec447ccdab00fea4582ff449b29e761c18",
+  "prompts": {},
+  "sessions": {
+    "s_c5cb2de3d7c8cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df55cc93-9cd6-46c5-a323-08c22451fef7",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
