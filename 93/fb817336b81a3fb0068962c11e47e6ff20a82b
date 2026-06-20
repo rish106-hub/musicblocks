@@ -1,0 +1,29 @@
+js/utils/utils-logic.js
+  s_c5cb2de3d7c8cb::t_1f7f801a994a5e 364
+  s_c5cb2de3d7c8cb::t_11f256e7ae0d81 324,331
+js/__tests__/turtle-singer.test.js
+  s_c5cb2de3d7c8cb::t_1e14085355016e 52
+js/utils/__tests__/utils-logic.test.js
+  s_c5cb2de3d7c8cb::t_c3af1bcbda9ec4 196,200,204-205,209-210,214-215,219-222
+js/turtle-singer.js
+  s_c5cb2de3d7c8cb::t_99df5140ece911 543-548
+  s_c5cb2de3d7c8cb::t_91e5715e508309 1956-1961,1963
+js/utils/__tests__/utils.test.js
+  s_c5cb2de3d7c8cb::t_87aa98924b8b1b 397,401-402,405,409-410,414,418,422,428-430,437-439
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "93fb817336b81a3fb0068962c11e47e6ff20a82b",
+  "prompts": {},
+  "sessions": {
+    "s_c5cb2de3d7c8cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df55cc93-9cd6-46c5-a323-08c22451fef7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
