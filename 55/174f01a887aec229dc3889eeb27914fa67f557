@@ -1,0 +1,24 @@
+js/turtledefs.js
+  s_c5cb2de3d7c8cb::t_06b7be8b29b3e9 323-328
+  s_c5cb2de3d7c8cb::t_b8e5f745252315 415-420
+js/widgets/pitchstaircase.js
+  s_c5cb2de3d7c8cb::t_bde6f8af29f580 196,205
+js/turtleactions/RhythmActions.js
+  s_c5cb2de3d7c8cb::t_2a2270a6f7e890 147-156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "55174f01a887aec229dc3889eeb27914fa67f557",
+  "prompts": {},
+  "sessions": {
+    "s_c5cb2de3d7c8cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df55cc93-9cd6-46c5-a323-08c22451fef7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
