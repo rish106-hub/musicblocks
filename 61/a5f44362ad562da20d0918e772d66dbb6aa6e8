@@ -1,0 +1,19 @@
+activity/SugarAnimation.js
+  s_c5cb2de3d7c8cb::t_5581108e5ebcf0 1419
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "61a5f44362ad562da20d0918e772d66dbb6aa6e8",
+  "prompts": {},
+  "sessions": {
+    "s_c5cb2de3d7c8cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df55cc93-9cd6-46c5-a323-08c22451fef7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
