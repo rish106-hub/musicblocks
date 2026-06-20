@@ -1,0 +1,28 @@
+js/utils/utils-logic.js
+  s_c5cb2de3d7c8cb::t_fb2aa9ba11da98 308-310
+js/turtle-singer.js
+  s_c5cb2de3d7c8cb::t_9b34160197a7b2 604
+  s_c5cb2de3d7c8cb::t_2c5d28e6eb8e52 494
+  s_c5cb2de3d7c8cb::t_2106d0be10198f 495-500,605-606,1962-1965
+  s_c5cb2de3d7c8cb::t_906b1eb1abb653 543,546,548-551
+  s_c5cb2de3d7c8cb::t_6851af98cedb36 663-665
+  s_c5cb2de3d7c8cb::t_2698d1b71a350b 544-545,547,552
+  s_c5cb2de3d7c8cb::t_4b2524338d1ee3 1959-1961,1966
+  s_c5cb2de3d7c8cb::t_be2dbe81d0a66d 557-559
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d7673505b7470c19114577273044355a319582bd",
+  "prompts": {},
+  "sessions": {
+    "s_c5cb2de3d7c8cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "df55cc93-9cd6-46c5-a323-08c22451fef7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
