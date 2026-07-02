@@ -1,0 +1,88 @@
+.github/workflows/lighthouse-ci.yml
+  s_f59f21a5eb7a65::t_8bdc872e05d1d0 34-36,41,44,47
+.github/workflows/node.js.yml
+  s_f59f21a5eb7a65::t_928055ce78ef02 31-33,38,41,44
+.github/workflows/linter.yml
+  s_f59f21a5eb7a65::t_95cce850ed148d 22-24,29,32
+  s_f59f21a5eb7a65::t_d99457333d4623 49
+  s_f59f21a5eb7a65::t_1d278a1f046c74 56
+.husky/pre-commit
+  s_f59f21a5eb7a65::t_dd963419e316c5 2
+.github/workflows/pr-jest-tests.yml
+  s_f59f21a5eb7a65::t_1daba4856128d8 29-31,36,39,44
+  s_f59f21a5eb7a65::t_9e021c328a96bc 57-58
+.devcontainer/README.md
+  s_f59f21a5eb7a65::t_ed26259d0ca098 195,198
+  s_f59f21a5eb7a65::t_24d69a4882027f 247
+  s_f59f21a5eb7a65::t_58a1959cfeda4e 70
+  s_f59f21a5eb7a65::t_1c46807258511a 81,132,176
+  s_f59f21a5eb7a65::t_a60da22277430e 207,213,219,225
+  s_f59f21a5eb7a65::t_3c450f7b172e34 170
+plugins/README.md
+  s_f59f21a5eb7a65::t_2269b2e257d617 52
+.github/workflows/pr-cypress-e2e.yml
+  s_f59f21a5eb7a65::t_774149e38462f4 26-28,33,38-39
+.github/PULL_REQUEST_TEMPLATE/generic.md
+  s_f59f21a5eb7a65::t_683222aef2b0df 59
+README.md
+  s_f59f21a5eb7a65::t_710a9b910e9293 245-247
+  s_f59f21a5eb7a65::t_6456028ea4e92c 105,109,112
+  s_f59f21a5eb7a65::t_567b942774ae39 169
+.github/workflows/security_scan.yml
+  s_f59f21a5eb7a65::t_3a092c8d052f10 19-21,26-29,31-32
+pnpm-workspace.yaml
+  s_f59f21a5eb7a65::t_6a577b79cf1574 1
+  s_f59f21a5eb7a65::t_d74faedb21ad6b 2-6
+  s_f59f21a5eb7a65::t_b97dae7204c78d 7-24
+.npmrc
+  s_f59f21a5eb7a65::t_744ccd64b96f20 1-3
+package.json
+  s_f59f21a5eb7a65::t_cf529cc8c30156 16
+  s_f59f21a5eb7a65::t_7b6f4da966b5fc 37,45
+dockerfile
+  s_f59f21a5eb7a65::t_146eec2e3d6537 6,8-10
+AGENTS.md
+  s_f59f21a5eb7a65::t_9dd78d62623cbc 217
+  s_f59f21a5eb7a65::t_358ed5daff6214 192-194
+  s_f59f21a5eb7a65::t_820c7c246fac25 132
+  s_f59f21a5eb7a65::t_8d994e6fbc4986 229
+Docs/TESTING.md
+  s_f59f21a5eb7a65::t_307c89da6f0142 8-10
+  s_f59f21a5eb7a65::t_7449dcb9e0e744 141
+Docs/troubleshooting.md
+  s_f59f21a5eb7a65::t_3f817efd3c0820 90-91
+  s_f59f21a5eb7a65::t_0f1b8df33c72a1 63,67
+  s_f59f21a5eb7a65::t_d7917517b7aee5 20,28-29,33,41-42
+.devcontainer/devcontainer.json
+  s_f59f21a5eb7a65::t_4795b9b7482553 33
+CONTRIBUTING.md
+  s_f59f21a5eb7a65::t_dc9650e41a28fa 114-116,121
+  s_f59f21a5eb7a65::t_6f90a51d490862 138-140
+js/widgets/aidebugger-guide.md
+  s_f59f21a5eb7a65::t_baf9ffcf1061d1 36-37
+  s_f59f21a5eb7a65::t_bbe82365c94d89 92
+js/guide_addingtest.md
+  s_f59f21a5eb7a65::t_874dc5a1b07baa 97,103
+  s_f59f21a5eb7a65::t_419b8c2fb482b4 158
+  s_f59f21a5eb7a65::t_e8e6d1d60e48fb 111
+  s_f59f21a5eb7a65::t_a642d85ff2c7da 10,16,22
+  s_f59f21a5eb7a65::t_cec29ae6f5bf6f 121
+pnpm-lock.yaml
+  s_f59f21a5eb7a65::t_ed63f28fcbb549 1-10475
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "d63f383d67d330bc8a368cd41b9e8b291d726a6f",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
