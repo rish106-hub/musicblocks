@@ -1,0 +1,19 @@
+.github/workflows/ci.yml
+  s_f59f21a5eb7a65::t_9935450359f9be 158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "9540b2a5a81eae1c8a2ce9421d4cee9059528676",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
