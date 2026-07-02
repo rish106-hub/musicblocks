@@ -1,0 +1,85 @@
+.github/workflows/ci.yml
+  s_f59f21a5eb7a65::t_b98a5060e8fd22 42-44,49,52,57
+  s_f59f21a5eb7a65::t_6b2a830cc58f32 76-78,83,86
+  s_f59f21a5eb7a65::t_62ecd4bdbc445a 118,125
+  s_f59f21a5eb7a65::t_50f26048d14de6 173-175,180,183,189
+  s_f59f21a5eb7a65::t_22dbbe90e28ac9 145-147,152,155,158
+  s_f59f21a5eb7a65::t_55e6a022a74a74 217-219,224,229-230
+  s_f59f21a5eb7a65::t_f92381aaca6ebb 259-261,266-269,271-272
+.husky/pre-commit
+  s_f59f21a5eb7a65::t_895fd3c333a32d 1
+.github/workflows/lighthouse-ci.yml
+  s_f59f21a5eb7a65::t_441b2224f429b8 34-36,41,44,47
+.devcontainer/README.md
+  s_f59f21a5eb7a65::t_6de636dc08e4d7 70
+  s_f59f21a5eb7a65::t_a98dbd4160aa4e 81,132,176
+  s_f59f21a5eb7a65::t_298544dfc24976 247
+  s_f59f21a5eb7a65::t_ade0cfaf652bcb 207,213,219,225
+  s_f59f21a5eb7a65::t_fd6c39d724bd79 170
+  s_f59f21a5eb7a65::t_97138ce0640a09 195,198
+plugins/README.md
+  s_f59f21a5eb7a65::t_f99acb8314ec1d 52
+dockerfile
+  s_f59f21a5eb7a65::t_6182486b084d4b 6,8-10
+Docs/TESTING.md
+  s_f59f21a5eb7a65::t_726ccf4fddc89f 8-10
+  s_f59f21a5eb7a65::t_cc1e5e7f39f945 141
+Docs/troubleshooting.md
+  s_f59f21a5eb7a65::t_b26c53af8eaed3 20,28-29,33,41-42
+  s_f59f21a5eb7a65::t_941a5e56cdea16 63,67
+  s_f59f21a5eb7a65::t_339423aad2acba 90-91
+.husky/commit-msg
+  s_f59f21a5eb7a65::t_8db0dff7b9c4ce 1
+CONTRIBUTING.md
+  s_f59f21a5eb7a65::t_213e438097f414 138-140
+  s_f59f21a5eb7a65::t_789b47febd1bf8 114-116,121
+pnpm-workspace.yaml
+  s_f59f21a5eb7a65::t_b7b9c0e1b3e9cb 7-25
+  s_f59f21a5eb7a65::t_b6912c7741975b 2-6
+  s_f59f21a5eb7a65::t_43f288c24281d1 1
+js/guide_addingtest.md
+  s_f59f21a5eb7a65::t_00ad283c75f15f 121
+  s_f59f21a5eb7a65::t_8ba06d13eb6fdd 158
+  s_f59f21a5eb7a65::t_454b1b89383245 111
+  s_f59f21a5eb7a65::t_c5d1849976bc51 97,103
+  s_f59f21a5eb7a65::t_c996a9660df774 10,16,22
+.npmrc
+  s_f59f21a5eb7a65::t_7d4c89eb71b416 1-3
+README.md
+  s_f59f21a5eb7a65::t_74c08fd5864475 169
+  s_f59f21a5eb7a65::t_640d36d079fd4e 245-247
+  s_f59f21a5eb7a65::t_f44e861192e690 105,109,112
+js/widgets/aidebugger-guide.md
+  s_f59f21a5eb7a65::t_4ad67b0312d538 36-37
+  s_f59f21a5eb7a65::t_b0d930c6180998 92
+AGENTS.md
+  s_f59f21a5eb7a65::t_5e6f0b701eed44 192-194
+  s_f59f21a5eb7a65::t_a8c5a57ffa9b09 132
+  s_f59f21a5eb7a65::t_5f4bb0f023da04 217
+  s_f59f21a5eb7a65::t_0c45eabd44cfd5 229
+.github/PULL_REQUEST_TEMPLATE/generic.md
+  s_f59f21a5eb7a65::t_254d10a0494761 59
+.devcontainer/devcontainer.json
+  s_f59f21a5eb7a65::t_a7b531ee4fecad 33
+package.json
+  s_f59f21a5eb7a65::t_fc2488db2992cd 39,47
+  s_f59f21a5eb7a65::t_c39a90c2d509f9 16
+pnpm-lock.yaml
+  s_f59f21a5eb7a65::t_c0f4dcb296170e 1-11000
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "eccb0d7e65c304757f82b98ef6176137205d2a24",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
