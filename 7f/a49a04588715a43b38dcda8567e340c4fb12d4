@@ -1,0 +1,24 @@
+js/widgets/phrasemaker.js
+  s_f59f21a5eb7a65::t_a8b46d3737c453 2761,2763-2765,2768
+js/widgets/__tests__/phrasemaker.test.js
+  s_f59f21a5eb7a65::t_5522d6f0e094f4 1375-1415,1417-1423
+  s_f59f21a5eb7a65::t_c8649ccb036e48 1424
+  s_f59f21a5eb7a65::t_e2f5e6282beea5 1416
+  s_f59f21a5eb7a65::t_2ac7e2d21b0b2e 1425
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "7fa49a04588715a43b38dcda8567e340c4fb12d4",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
