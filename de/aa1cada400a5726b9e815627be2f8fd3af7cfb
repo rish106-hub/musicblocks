@@ -1,0 +1,21 @@
+js/planetInterface.js
+  s_f59f21a5eb7a65::t_3763816cbf206a 326
+js/__tests__/planetInterface.test.js
+  s_f59f21a5eb7a65::t_3763816cbf206a 166-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "deaa1cada400a5726b9e815627be2f8fd3af7cfb",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
