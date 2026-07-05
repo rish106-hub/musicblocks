@@ -1,0 +1,21 @@
+js/widgets/__tests__/oscilloscope.test.js
+  s_f59f21a5eb7a65::t_9d2f15e6d79ead 368-390
+js/widgets/oscilloscope.js
+  s_f59f21a5eb7a65::t_9d2f15e6d79ead 298
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b2d072b59a7a0b4dc07b8f1bdd0cbb7c036e6c29",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
