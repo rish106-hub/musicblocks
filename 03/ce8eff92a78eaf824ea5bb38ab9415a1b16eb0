@@ -1,0 +1,22 @@
+js/blocks/__tests__/SensorsBlocks.test.js
+  s_96bdfee7ca35ae::t_155cf2ca49d5d3 242,341-347,359-370
+js/blocks/SensorsBlocks.js
+  s_96bdfee7ca35ae::t_ef6f8a2d169e8f 675-680,689-698
+  s_96bdfee7ca35ae::t_c7be3f22d1c4bd 681-688
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "03ce8eff92a78eaf824ea5bb38ab9415a1b16eb0",
+  "prompts": {},
+  "sessions": {
+    "s_96bdfee7ca35ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f35e2-2096-7a13-8915-58f256463c4e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
