@@ -1,0 +1,22 @@
+js/activity.js
+  s_f59f21a5eb7a65::t_8d55735ad0209c 6049
+  s_f59f21a5eb7a65::t_32a0a3fd0e9456 5923
+  s_f59f21a5eb7a65::t_39dc1c17c0895a 5924
+  s_f59f21a5eb7a65::t_ffd56713bff9af 6048
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9bc97189c65793cabe7fd861c76afcbab4f50c54",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
