@@ -1,0 +1,21 @@
+js/utils/__tests__/utils-plugin-loader.test.js
+  s_66b8a619256732::t_9465b7d7e68f8c 39,61-70,91
+  s_66b8a619256732::t_bdd2b8026a4060 41-42,71-78,102-108,122,124,146
+  s_66b8a619256732::t_7bf46cc454d42b 94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c85c089f5f731c36d3b6a1a7c592b958cb83fbe1",
+  "prompts": {},
+  "sessions": {
+    "s_66b8a619256732": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f38e8-1e3a-7810-85d8-58ff33d3b101",
+        "model": "gpt-5.5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
