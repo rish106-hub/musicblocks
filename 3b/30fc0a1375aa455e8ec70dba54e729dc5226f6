@@ -1,0 +1,25 @@
+js/blocks/NumberBlocks.js
+  s_f59f21a5eb7a65::t_a9d65addc555ce 59-62
+js/utils/__tests__/mathutils.test.js
+  s_f59f21a5eb7a65::t_2de5870dfae044 133
+  s_f59f21a5eb7a65::t_474d0e964522e4 162
+  s_f59f21a5eb7a65::t_ac00118f46dfbf 559
+js/utils/mathutils.js
+  s_f59f21a5eb7a65::t_ad00084cf33881 133,137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3b30fc0a1375aa455e8ec70dba54e729dc5226f6",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
