@@ -1,0 +1,27 @@
+js/utils/__tests__/utils-plugin-security.test.js
+  s_f59f21a5eb7a65::t_92c9ebe2393c37 35
+  s_f59f21a5eb7a65::t_87d0fb02892884 44-47
+  s_f59f21a5eb7a65::t_381f0426e5e859 1-21,23-25,27-30,32-33,37-38,53-54,56-57,62-69,71-83,85-93,95-96
+  s_f59f21a5eb7a65::t_2061ad76f6126b 22,31,34,36,39-43,48-52,55,70,84,94
+  s_f59f21a5eb7a65::t_84d49f69caf86e 26
+  s_f59f21a5eb7a65::t_e6c3d09a3fab17 58-61
+js/utils/utils.js
+  s_f59f21a5eb7a65::t_307e58d40e4817 642-653
+  s_f59f21a5eb7a65::t_2ac69a06c0e009 1527
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5707000410aa28115f4ccfd765b597c43f3e4dcd",
+  "prompts": {},
+  "sessions": {
+    "s_f59f21a5eb7a65": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb4c179-7a71-4380-8bec-ceda163ec3e0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
