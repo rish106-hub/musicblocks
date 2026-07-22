@@ -826,6 +826,31 @@ describe("Logo doBreak", () => {
         expect(tur.parentFlowQueue).toEqual([0]);
         expect(tur.queue[0].blk).toBe(3);
     });
+
+    test("flushes nested child-flow entries queued above the loop (repeat/forever)", () => {
+        // queue[0] is the repeat loop's own entry (parentBlk 0 = "repeat").
+        // queue[1] is a nested block's continuation, scheduled after the
+        // loop started, that should be discarded along with the loop.
+        const tur = {
+            queue: [
+                { blk: 2, parentBlk: 0 },
+                { blk: 5, parentBlk: 2 }
+            ],
+            parentFlowQueue: []
+        };
+        logo.blockList = [
+            { name: "repeat" }, // 0
+            { name: "print" }, // 1
+            { name: "if" }, // 2
+            { name: "print" }, // 3
+            { name: "print" }, // 4
+            { name: "print" } // 5
+        ];
+
+        logo.doBreak(tur);
+
+        expect(tur.queue).toEqual([]);
+    });
 });
 
 // ─── Logo setDispatchBlock ────────────────────────────────────────────────────

@@ -1091,8 +1091,10 @@ class Logo {
                 // while or until
                 loopBlkIdx = turtle.queue[i].blk;
                 parentLoopBlock = this.blockList[loopBlkIdx];
-                // Flush the parent from the queue
-                turtle.queue.splice(i, 1);
+                // Flush the parent and any nested child-flow entries
+                // queued above it (the queue is a stack, so everything
+                // past this index belongs to the loop's current iteration).
+                turtle.queue.splice(i, turtle.queue.length - i);
                 break;
             } else if (
                 ["forever", "repeat", "while", "until"].includes(
@@ -1102,8 +1104,10 @@ class Logo {
                 // repeat or forever
                 loopBlkIdx = turtle.queue[i].parentBlk;
                 parentLoopBlock = this.blockList[loopBlkIdx];
-                // Flush the parent from the queue
-                turtle.queue.splice(i, 1);
+                // Flush the parent and any nested child-flow entries
+                // queued above it (the queue is a stack, so everything
+                // past this index belongs to the loop's current iteration).
+                turtle.queue.splice(i, turtle.queue.length - i);
                 break;
             }
         }
