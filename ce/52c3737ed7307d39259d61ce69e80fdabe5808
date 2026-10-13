@@ -1,0 +1,19 @@
+js/widgets/widgetWindows.js
+  s_c82ae421a110aa::t_11808c0684f70f 20-31,237-238,243-250,263-267,274-279,438,440-453,457-458,462-467,574-575,582-583
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ce52c3737ed7307d39259d61ce69e80fdabe5808",
+  "prompts": {},
+  "sessions": {
+    "s_c82ae421a110aa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a133ce-683f-78d3-8532-69cfc2af1f0b",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
